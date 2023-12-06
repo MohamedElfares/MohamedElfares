@@ -2,12 +2,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Erfan Elfares</h1>
 <h3 align="center">Deeply passionate about the realms of artificial intelligence and cybersecurity.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedElfares&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElfares" /> </p>
-<image src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" alt="AI gif" align = "right" width="400">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedElfares&theme=" alt="MohamedElfares" /></a> </p>
+
 - 🔭 I’m currently working on [detecting sarcasm in Arabic tweets.](https://github.com/YaserHabib/ArabicSarcasmDetection)
 - 🌱 I’m currently learning **Google Cybersecurity**
 - 💬 Ask me about **Deep Learning, Machine Learning, NLP**
 - 📫 How to reach me **MohamedErfan1111@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/MohamedElfares**
+
 <div> <a href="https://www.linkedin.com/in/Mohamed Erfan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/MohamedElfares" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:MohamedErfan1111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,12 +35,16 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElfares&show_icons=true&locale=en&theme=onedark" alt="MohamedElfares" /> <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElfares&theme=onedark" alt="MohamedElfares" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElfares&show_icons=true&locale=en&theme=onedark" alt="MohamedElfares" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElfares&theme=onedark" alt="MohamedElfares" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MohamedElfares">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedElfares&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedElfares&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedElfares&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedElfares&theme=onedark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElfares&theme=onedark" height="180em" />
 </div>

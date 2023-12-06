@@ -3,11 +3,13 @@
 <h3 align="center">Deeply passionate about the realms of artificial intelligence and cybersecurity.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedElfares&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElfares" /> </p>
 <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" width="400" align="right" alt="AI gif">
-- 🔭 I’m currently working on <a href="https://github.com/YaserHabib/ArabicSarcasmDetection">detecting sarcasm in Arabic tweets.</a>
-- 🌱 I’m currently learning **Google Cybersecurity**
-- 💬 Ask me about **Deep Learning, Machine Learning, NLP**
-- 📫 How to reach me **MohamedErfan1111@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/MohamedElfares**
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/YaserHabib/ArabicSarcasmDetection">detecting sarcasm in Arabic tweets.</a></li>
+  <li>🌱 I’m currently learning **Google Cybersecurity**</li>
+  <li>💬 Ask me about **Deep Learning, Machine Learning, NLP**
+  <li>📫 How to reach me **MohamedErfan1111@gmail.com** </li>
+  <li>👨‍💻 All of my projects are available at **https://github.com/MohamedElfares**</li>
+</ul>
 
 <div> <a href="https://www.linkedin.com/in/Mohamed Erfan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/MohamedElfares" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

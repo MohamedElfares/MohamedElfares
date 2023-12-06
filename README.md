@@ -7,8 +7,8 @@
   <li>🔭 I’m currently working on <a href="https://github.com/YaserHabib/ArabicSarcasmDetection">detecting sarcasm in Arabic tweets.</a></li>
   <li>🌱 I’m currently learning Google Cybersecurity</li>
   <li>💬 Ask me about Deep Learning, Machine Learning, NLP
-  <li>📫 How to reach me MohamedErfan1111@gmail.com</li>
-  <li>👨‍💻 All of my projects are available at https://github.com/MohamedElfares**</li>
+  <li>📫 How to reach me <a href="mailto:MohamedErfan1111@gmail.com>Mohamed Elfares</a></li>
+  <li>👨‍💻 All of my projects are available at https://github.com/MohamedElfares</li>
 </ul>
 
 <div> <a href="https://www.linkedin.com/in/Mohamed Erfan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

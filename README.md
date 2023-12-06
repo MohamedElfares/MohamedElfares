@@ -7,7 +7,7 @@
   <li>🔭 I’m currently working on <a href="https://github.com/YaserHabib/ArabicSarcasmDetection">detecting sarcasm in Arabic tweets.</a></li>
   <li>🌱 I’m currently learning Google Cybersecurity</li>
   <li>💬 Ask me about Deep Learning, Machine Learning, NLP
-  <li>📫 How to reach me <a href="mailto:MohamedErfan1111@gmail.com>Mohamed Elfares</a></li>
+  <li>📫 How to reach me <a href="mailto:MohamedErfan1111@gmail.com">MohamedErfan1111@gmail.com</a></li>
   <li>👨‍💻 All of my projects are available at https://github.com/MohamedElfares</li>
 </ul>
 

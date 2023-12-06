@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Erfan Elfares</h1>
 <h3 align="center">Deeply passionate about the realms of artificial intelligence and cybersecurity.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedElfares&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElfares" /> </p>
-
+<img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" width="200" align="right" alt="AI gif">
 - 🔭 I’m currently working on [detecting sarcasm in Arabic tweets.](https://github.com/YaserHabib/ArabicSarcasmDetection)
 - 🌱 I’m currently learning **Google Cybersecurity**
 - 💬 Ask me about **Deep Learning, Machine Learning, NLP**

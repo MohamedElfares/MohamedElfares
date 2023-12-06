@@ -43,8 +43,6 @@
 <div align="center">
 <a href="https://github.com/MohamedElfares">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedElfares&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedElfares&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedElfares&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedElfares&theme=onedark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElfares&theme=onedark" height="180em" />
 </div>

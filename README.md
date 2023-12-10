@@ -33,8 +33,8 @@
 
 <h3 align="left">Stars</h3>
 <p align="center">
-  <img align="left" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedElfares&show_icons=true&locale=en&theme=dracula" alt="MohamedElfares" />
-  <img align="right" height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElfares&&theme=dracula" alt="MohamedElfares" />
+  <img align="left" height="180em" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=MohamedElfares&show_icons=true&locale=en&theme=dracula" alt="MohamedElfares" />
+  <img align="right" height="180em" width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElfares&&theme=dracula" alt="MohamedElfares" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Erfan</h1>
 <h3 align="center">Deeply passionate about the realms of artificial intelligence and cybersecurity.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedElfares&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElfares" /> </p>
+
 - 🔭 I’m currently working on [detecting sarcasm in Arabic tweets.](https://github.com/YaserHabib/ArabicSarcasmDetection)
 - 🌱 I’m currently learning **Google Cybersecurity**
 - 💬 Ask me about **Deep Learning, Machine Learning, NLP**
@@ -41,7 +42,6 @@
 <a href="https://github.com/MohamedElfares">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedElfares&theme=dracula" height="180em" /> &nbsp; &nbsp;
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedElfares&theme=dracula" height="180em" />
-<br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElfares&theme=dracula" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>

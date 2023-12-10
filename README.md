@@ -1,9 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Mohamed Erfan</h1>
 <h3 align="center">Deeply passionate about the realms of artificial intelligence and cybersecurity.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedElfares&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElfares" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedElfares&theme=" alt="MohamedElfares" /></a> </p>
 
 - 🔭 I’m currently working on [detecting sarcasm in Arabic tweets.](https://github.com/YaserHabib/ArabicSarcasmDetection)
 - 🌱 I’m currently learning **Google Cybersecurity**
@@ -16,7 +13,7 @@
 <a href = "mailto:mohamederfan1111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Mohamed Erfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Mohamed Erfan" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/mohamed-erfan-8137612a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Mohamed Erfan" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -35,18 +32,16 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElfares&show_icons=true&locale=en&theme=" alt="MohamedElfares" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElfares&show_icons=true&locale=en&theme=dracula" alt="MohamedElfares" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElfares&theme=" alt="MohamedElfares" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElfares&&theme=dracula" alt="MohamedElfares" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MohamedElfares">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedElfares&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedElfares&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedElfares&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedElfares&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElfares&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElfares&theme=dracula" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElfares&theme=dracula"/>
